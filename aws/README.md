@@ -8,6 +8,7 @@
 
 # how to run
 ```
+source env/bin/activate
 export AWS_PROFILE=prod
 python bin/main.py --envfile "resources/dev2.toml"
 ```
