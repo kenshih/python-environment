@@ -1,8 +1,21 @@
 # python-environment
 
-trying to figure out a good general py environment setup for all my needs
+I'm trying to figure out a good general py environment setup for all my needs.
+
+At the root is the basic setup.
+
+Progressively, I'm adding more enviroments as need or imagined need arises.
+
+* [Basic](#basic-setup)
+* [AWS basic scripting use case](./aws)
+* [Jupyterlab setup](./jupyterlab/)
+* [library with setuptools](./library)
+
+
+# Basic setup
 
 - [python-environment](#python-environment)
+- [Basic setup](#basic-setup)
   - [pyenv setup](#pyenv-setup)
   - [project setup: virtualenv](#project-setup-virtualenv)
 

@@ -6,3 +6,10 @@ env/
 
 # complie artifacts
 __pycache__
+
+# setuptool and build artifacts
+dist/
+*.egg-info/
+
+# to test package installs
+test-env/
