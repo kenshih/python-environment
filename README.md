@@ -7,9 +7,10 @@ At the root is the basic setup.
 Progressively, I'm adding more enviroments as need or imagined need arises.
 
 * [Basic](#basic-setup)
-* [AWS basic scripting use case](./aws)
+* [AWS basic scripting use case](./aws/)
 * [Jupyterlab setup](./jupyterlab/)
-* [library with setuptools](./library)
+* [library with setuptools](./library/)
+* [rustlib: build rust fn to use in python](./rustlib/)
 
 
 # Basic setup
